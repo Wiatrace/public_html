@@ -1,0 +1,167 @@
+# Translation of Themes - Resort Hotel Booking in Russian
+# This file is distributed under the same license as the Themes - Resort Hotel Booking package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-26 10:43:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Resort Hotel Booking\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Resort hotel booking is a WP theme designed specifically for travel agencies, hotel websites, blogs about travel, resorts, corporate hotel booking, adventure sports, Air BNB, adventure parks, and tour companies. With this theme, you will find impressive features such as clean, user-friendly, responsive, beautiful, professional, personalization options, a testimonial section, a banner, a call to action button (CTA), social media, SEO-friendly, optimized codes. Resort hotel booking is intended for use on blogs, travel websites, and hotel websites in general. In order to make our resort booking theme easily found on Google and other search engines, we have optimized the SEO (search engine optimization) extensively. Through widgets, you can integrate ad programs such as AdSense in the top, sidebar, footer, and more. The design is simple, elegant, and modern. Websites can be used to promote hotel businesses and tour operators. The main features of the theme include Visual Composer Page Builder with Drag and Drop layout, Revolution Slider, Mega Main Menu, Powerful Theme Options Panel, Premium Preloader, and Unlimited Colors. With just a few clicks, you can create your own custom color scheme."
+msgstr "Resort hotel booking (бронирование курортных отелей) — это тема WP, разработанная специально для туристических агентств, веб-сайтов отелей, блогов о путешествиях, курортах, корпоративном бронировании отелей, приключенческих видах спорта, Air BNB, парках приключений и туристических компаниях. В этой теме вы найдете впечатляющие функции, такие как чистый, удобный, отзывчивый, красивый, профессиональный, параметры персонализации, раздел отзывов, баннер, кнопка призыва к действию (CTA), социальные сети, SEO-дружественный, оптимизированный коды. Бронирование курортных отелей предназначено для использования в блогах, туристических сайтах и сайтах отелей в целом. Чтобы нашу тему бронирования курортов было легко найти в Google и других поисковых системах, мы значительно оптимизировали SEO (поисковую оптимизацию). С помощью виджетов вы можете интегрировать рекламные программы, такие как AdSense, в верхнюю часть, боковую панель, нижний колонтитул и многое другое. Дизайн простой, элегантный и современный. Веб-сайты можно использовать для продвижения гостиничного бизнеса и туроператоров. Основные функции темы включают Visual Composer Page Builder с макетом перетаскивания, слайдер Revolution, мега-главное меню, мощную панель параметров темы, предварительный загрузчик премиум-класса и неограниченное количество цветов. Всего за несколько кликов вы можете создать свою собственную цветовую схему."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Resort Hotel Booking"
+msgstr "Resort Hotel Booking"
+
+#: template-parts/footer/site-info.php:12
+msgid "By Themespride"
+msgstr "от ThemesPride"
+
+#: functions.php:248
+msgid "Resort Hotel Booking WordPress Theme"
+msgstr "Тема WordPress для бронирования курортных отелей"
+
+#: template-parts/navigation/site-nav.php:37
+msgid "Close Button"
+msgstr "Кнопка Закрыть"
+
+#: template-parts/navigation/site-nav.php:27
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: template-parts/navigation/site-nav.php:23
+msgid "Open Button"
+msgstr "Кнопка Открыть"
+
+#: template-parts/home/popular-hotel.php:43
+msgid "Learn More"
+msgstr "Подробнее"
+
+#: header.php:40
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: header.php:14
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: functions.php:218
+msgid "Resort Hotel Pro"
+msgstr "Resort Hotel Pro"
+
+#: functions.php:176
+msgid "Count ( Between 1 and 5 )"
+msgstr "Количество (от 1 до 5)"
+
+#: functions.php:173
+msgid "Review"
+msgstr "Отзыв"
+
+#: functions.php:165
+msgid "Package Days"
+msgstr "Дни пакета"
+
+#: functions.php:157
+msgid "Package Amount"
+msgstr "Сумма пакета"
+
+#: functions.php:138
+msgid "Trip Offer Meta Feilds"
+msgstr "Мета поля предложения поездки"
+
+#: functions.php:100
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#: functions.php:90
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: functions.php:80
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:72 functions.php:82 functions.php:92 functions.php:102
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте сюда виджеты для отображения в подвале сайта."
+
+#: functions.php:70
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:60
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: functions.php:52
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr "Добавьте сюда виджеты, чтобы они отображались в области виджетов страниц."
+
+#: functions.php:50
+msgid "Page Sidebar"
+msgstr "Область виджетов страницы"
+
+#: functions.php:42 functions.php:62
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Добавьте сюда виджеты для их помещения в область виджетов в записях блога и страницах архива."
+
+#: functions.php:40
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: customizer/customizer.php:61
+msgid "Select Category"
+msgstr "Выберите рубрику"
+
+#: customizer/customizer.php:32
+msgid "Section Title"
+msgstr "Название раздела"
+
+#: customizer/customizer.php:23
+msgid "Latest Offer Settings"
+msgstr "Настройки последних предложений"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:60
+msgid "Next"
+msgstr "Следующий"
+
+#: comments.php:59
+msgid "Previous"
+msgstr "Предыдущий"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.themespride.com/"
+msgstr "https://www.themespride.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ThemesPride"
+msgstr "ThemesPride"
+
+#. Theme URI of the theme
+#: functions.php:245
+#, gp-priority: low
+msgid "https://www.themespride.com/themes/free-hotel-booking-wordpress-theme/"
+msgstr "https://www.themespride.com/themes/free-hotel-booking-wordpress-theme/"
